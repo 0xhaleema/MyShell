@@ -54,7 +54,7 @@ All logic is contained in one file, organized into the following sections:
 | Language | C (C99) |
 | System Calls | `fork`, `execvp`, `wait`, `pipe`, `dup2`, `open`, `getcwd`, `chdir` |
 | Platform | Unix / Linux |
-| Build Tool | GCC / Makefile |
+| Build Tool | GCC |
 
 ---
 
