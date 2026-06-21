@@ -4,7 +4,7 @@
 
 ---
 ## Banner
-![MyShell Banner](assets/banner.png)
+![MyShell Banner](banner.png)
 ---
 ## Features
 
